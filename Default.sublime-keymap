@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+["], "command": "next_pane" },
+  { "keys": ["super+]"], "command": "previous_pane"}
+]
